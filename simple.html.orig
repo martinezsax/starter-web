@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+    Copyright 2023 Git.Training NEW CHANGE	
+-->
+<head>
+<<<<<<< HEAD
+	<title>Some sort of weird website NEW</title>
+=======
+	<title>An Amazing Website for this project -- NEW</title>
+>>>>>>> realwork-new2
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Git Training stuff 2023
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; SM 2023</p>
+=======
+			Some Training Crap for the exercise
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training 2023</p>
+>>>>>>> realwork-new2
+	</footer>
+</body>
+</html>
