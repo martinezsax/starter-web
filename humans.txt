@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Simon Martinez simon.martinez@tii.ae  @martinezsax
 
 # THANKS
 
